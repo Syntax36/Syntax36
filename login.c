@@ -28,6 +28,7 @@ A crazy attempt to update
  * IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
  * WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
+#include<iostream>
 #include <sys/param.h>
 #include <stdio.h>
 #include <ctype.h>
