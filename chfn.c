@@ -2,7 +2,7 @@
  *   chfn.c -- change your finger information
  *   (c) 1994 by salvatore valente <svalente@athena.mit.edu>
  *   (c) 2012 by Cody Maloney <cmaloney@theoreticalchaos.com>
- *
+ *    //maseili
  *   this program is free software.  you can redistribute it and
  *   modify it under the terms of the gnu general public license.
  *   there is no warranty.
