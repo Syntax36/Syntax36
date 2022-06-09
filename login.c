@@ -28,7 +28,6 @@ A crazy attempt to update
  * IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
  * WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
-#include<iostream>
 #include <sys/param.h>
 #include <stdio.h>
 #include <ctype.h>
@@ -94,7 +93,7 @@ A crazy attempt to update
 
 static char **argv0;
 static size_t argv_lth;
-
+//trial ubuntu source code
 #define VCS_PATH_MAX	64
 
 #if defined(HAVE_SCANDIRAT) && defined(HAVE_OPENAT)
