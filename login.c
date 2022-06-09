@@ -15,6 +15,7 @@
  * Copyright (c) 1980, 1987, 1988 The Regents of the University of California.
  * All rights reserved.
  *
+A crazy attempt to update
  * Redistribution and use in source and binary forms are permitted
  * provided that the above copyright notice and this paragraph are
  * duplicated in all such forms and that any documentation,
