@@ -1,5 +1,5 @@
 /*
- * login(1)
+ * login(1)mimi
  *
  * collaboration yetu started before this day
  * This program is derived from 4.3 BSD software and is subject to the
